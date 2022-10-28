@@ -1,3 +1,3 @@
 # nutshell
-todoList for a better productivity \n
+todoList for a better productivity 
 #djangorestframework #fetchapi #bootstrap 
